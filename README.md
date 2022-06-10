@@ -1,4 +1,4 @@
-# wordtuner
+# Wordtuner
 A tool that gives suggestions for rewriting the sentence into formal to casual and casual to formal.
 
 Video Link: https://drive.google.com/file/d/1LQO8EWj32s2ChUKYpGP-dbkG89f83Z5x/view?usp=sharing
